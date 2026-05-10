@@ -1,0 +1,42 @@
+{
+  "qwen_1b": {
+    "model_name": "Qwen/Qwen2.5-1.5B",
+    "flag": true
+  },
+  "qwen_7b": {
+    "model_name": "Qwen/Qwen2.5-7B",
+    "flag": true
+  },
+  "qwen_14b": {
+    "model_name": "Qwen/Qwen2.5-14B",
+    "flag": false
+  },
+  "llama_1b": {
+    "model_name": "meta-llama/Llama-3.2-1B",
+    "flag": true
+  },
+  "llama_8b": {
+    "model_name": "meta-llama/Meta-Llama-3.1-8B",
+    "flag": true
+  },
+  "deepseek_r1_llama_8b": {
+    "model_name": "deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
+    "flag": true
+  },
+  "gemma_2b": {
+    "model_name": "google/gemma-3-2b",
+    "flag": true
+  },
+  "gemma_4b": {
+    "model_name": "google/gemma-3-4b",
+    "flag": true
+  },
+  "mistral_7b": {
+    "model_name": "mistralai/Mistral-7B-v0.3",
+    "flag": true
+  },
+  "mistral_3b": {
+    "model_name": "mistralai/Mistral-3B-v0.2",
+    "flag": true
+  }
+}

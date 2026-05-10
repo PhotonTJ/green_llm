@@ -1,0 +1,14 @@
+transformers>=4.37
+datasets
+peft
+accelerate
+codecarbon
+scikit-learn
+seaborn
+sentencepiece
+tqdm
+torch
+pandas
+numpy
+matplotlib
+huggingface_hub

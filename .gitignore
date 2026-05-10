@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local secrets
+.env
+*.env
+setup.env
+
+# Generated experiment outputs
+*_outputs/
+carbon/
+checkpoints/
+figures/
+logs/
+metrics/
+
+# Notebooks and OS noise
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
